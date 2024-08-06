@@ -22,5 +22,8 @@
 <h3> İletişim </h3>
 
 <a href="https://t.me/Tetra404"> Telegram </a>
+<br>
 <a href="https://instagram.com/thedevemir">İnstagram</a>
+<br>
 <a href="https://github.com/Tetra404"> Github</a>
+<br>
