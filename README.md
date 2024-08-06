@@ -1,5 +1,8 @@
 <h1>Tetra Sites Dumped </h1>
+<br>
+<br>
 
+ <img src="image.png">
 <b>Herkese Merhaba Ben TETRA</b>
 
 <h4>Bu Toolun Amacı Güvenlik Kısmında Zayıflık Gösteren Sitelerin Public Dosyalarını Çekmeye Yarar</h4>
